@@ -24,6 +24,10 @@ header {
   box-shadow: 0px 2px 4px rgba(44, 62, 80, 0.15);
   border-bottom-right-radius: 7px;
   border-bottom-left-radius: 7px;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 2;
 }
 
 input {
